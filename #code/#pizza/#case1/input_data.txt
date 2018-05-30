@@ -1,0 +1,5 @@
+4 7 1 6 '\n'
+T T T M T T T '\n'
+M M T T T M T '\n'
+T T M T T T T '\n'
+M T T T M T T '\n'
